@@ -14,7 +14,7 @@ BSIT 2nd Year
 
 ## Database Used
 
-MySQL
+SQLite
 
 ## Features
 
